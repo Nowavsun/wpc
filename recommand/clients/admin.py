@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import wallpaper
+from .models import Wallpaper
 
 
 # Register your models here.
-admin.site.register(wallpaper)
+admin.site.register(Wallpaper)

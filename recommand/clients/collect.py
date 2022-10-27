@@ -16,5 +16,5 @@ imagTAGS = np.array(imagTAGS)
 print(imagTAGS)
 
 
-wallpaper(imagNAME = ,)
-wallpaper.save（）
+# wallpaper(imagNAME = ,)
+# wallpaper.save（）
